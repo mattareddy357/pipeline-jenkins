@@ -1,5 +1,5 @@
 pipeline {
-   agent{ label "mattareddy"
+   agent{ label "master"
    }
     tools {
         maven 'Maven3.1.1'
